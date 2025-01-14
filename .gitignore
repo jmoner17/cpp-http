@@ -1,0 +1,55 @@
+#-------------------------------
+# OS-specific temporary files
+#-------------------------------
+.DS_Store
+Thumbs.db
+
+#-------------------------------
+# Editor-specific or IDE-related
+#-------------------------------
+.vscode/
+.idea/
+*.swp
+*.swo
+
+#-------------------------------
+# C/C++ build artifacts
+#-------------------------------
+*.o
+*.obj
+*.so
+*.dll
+*.dylib
+*.exe
+*.out
+*.a
+*.lib
+*.log
+*.tmp
+*.pdb
+*.idb
+*.DS_Store
+*.manifest
+*.dSYM/
+*.gcno
+*.gcda
+*.gcov
+
+#-------------------------------
+# Generated executables or binaries
+#-------------------------------
+server
+program
+test
+a.out
+
+#-------------------------------
+# Other
+#-------------------------------
+Makefile.conf
+cmake-build-*/
+
+#-------------------------------
+# coverage reports
+#-------------------------------
+coverage/
